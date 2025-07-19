@@ -1,2 +1,2 @@
 # OIBSIP-domain-taskno2
-logo designing with figma
+Buisness card designing with figma
